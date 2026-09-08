@@ -16,7 +16,7 @@ let reconnectTimeout = null;
 function createBot() {
   const bot = mineflayer.createBot({
     host: 'mystic-nebula-51.botnest.xyz', 
-    port: 25565,               
+    port: 1961,               
     username: 'worldhappygo-521',  
     version: false,
     physics: false 
